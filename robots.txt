@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://frafra92.github.io/devis-parquet-paris/sitemap.xml
